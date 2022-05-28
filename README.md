@@ -1,7 +1,7 @@
 # git_test
-TOP git basics
+TOP git basics:
 Learned how to use
 - git status
 - git add
-- git commit -m
+- git commit -m ""
 - git log
